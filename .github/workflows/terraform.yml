@@ -52,7 +52,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Sign in to Azure
+      - name: Sign in to Azur
         uses: azure/login@v2
         with:
           client-id: eb49ab4d-0b62-4aeb-9816-635402c9f909
