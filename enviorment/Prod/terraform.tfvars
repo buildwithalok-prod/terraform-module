@@ -7,7 +7,7 @@ rgs = {
     name     = "rg-terraform-vm-2"
     location = "centralindia"
   }
-    "rg3" = {
+  "rg3" = {
     name     = "rg-terraform-vm-3"
     location = "centralindia"
   }
